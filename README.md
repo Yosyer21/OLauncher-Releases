@@ -101,7 +101,7 @@ Core Launcher is an independent project.
 - Minecraft, Minecraft Java Edition, Mojang, Microsoft, and related names, assets, and brands belong to their respective owners.
 - Mods, modpacks, loaders, and third-party platforms remain under their own licenses and terms.
 
-The launcher project itself is distributed under GPL-3.0-only.
+The launcher project is distributed under a custom proprietary license. Redistribution of the original, unmodified source code is permitted, provided that the copyright and license notices are retained. Modification, redistribution of modified versions, and commercial redistribution are not permitted without prior written permission from the copyright holder.
 
 ## Support
 
