@@ -6,7 +6,7 @@ This repository is the official public distribution channel for the project.
 
 ## Status
 
-- Current release line: Beta 0.4
+- Current release line: Beta 0.6
 - Platform: Windows desktop
 - Distribution model: installer builds and update metadata are published in GitHub Releases
 - Auto-update target: this repository is the release source used by the desktop updater
